@@ -1,0 +1,16 @@
+.parent-container {
+    display:flex;
+    flex-direction: row;
+}
+
+.child-box {
+    width: 33%;
+    background-color: aqua;
+}
+.one{
+    background-color: blue;
+}
+
+.two{
+    background-color: red;
+}
